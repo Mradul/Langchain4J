@@ -9,7 +9,6 @@ import '@vaadin/checkbox';
 import '@vaadin/horizontal-layout';
 import '@vaadin/grid';
 import '@vaadin/grid/vaadin-grid-sort-column.js';
-
 export class DemoChat extends LitElement {
     static styles = css`
       .button {
